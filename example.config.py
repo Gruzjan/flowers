@@ -1,0 +1,7 @@
+PUSHBULLET_TOKEN = ""
+APIFLASH_TOKEN = ""
+CITY_NAME = ""
+CITY_MM = "" #rss stream xml
+CITY_BIP = ""
+CITY_ZIM_BIP = ""
+CITY_ZIM_LINKS = []
